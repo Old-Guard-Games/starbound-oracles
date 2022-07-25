@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/starforged-oracles/static/css/main.6bd4689d.chunk.css",
-    "main.js": "/starforged-oracles/static/js/main.0b0b092b.chunk.js",
-    "main.js.map": "/starforged-oracles/static/js/main.0b0b092b.chunk.js.map",
+    "main.js": "/starforged-oracles/static/js/main.0501e6b2.chunk.js",
+    "main.js.map": "/starforged-oracles/static/js/main.0501e6b2.chunk.js.map",
     "runtime-main.js": "/starforged-oracles/static/js/runtime-main.33cb9724.js",
     "runtime-main.js.map": "/starforged-oracles/static/js/runtime-main.33cb9724.js.map",
     "static/js/2.624a130e.chunk.js": "/starforged-oracles/static/js/2.624a130e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.33cb9724.js",
     "static/js/2.624a130e.chunk.js",
     "static/css/main.6bd4689d.chunk.css",
-    "static/js/main.0b0b092b.chunk.js"
+    "static/js/main.0501e6b2.chunk.js"
   ]
 }
