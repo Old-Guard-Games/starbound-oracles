@@ -21,7 +21,7 @@
 }
 
 .sidebar-closed {
-  /* left: -16em; */
+  left: -16em;
 }
 
 .sidebar-open {
@@ -29,7 +29,7 @@
 }
 
 .sidebar-toggle {
-  display:none;
+  /* display:none; */
 	z-index: 1000;
 	cursor: pointer;
 	/* transition: color 1.5s; */

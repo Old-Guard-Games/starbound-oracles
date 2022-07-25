@@ -1,5 +1,5 @@
 .results-list {
-  padding-left: 10em;
+  /* padding-left: 10em; */
 }
 
 .results-list .entry:nth-child(even) {
