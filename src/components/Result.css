@@ -1,0 +1,22 @@
+.results-list {
+  padding-left: 10em;
+}
+
+.results-list .entry:nth-child(even) {
+  background-color: #eee;
+}
+
+.results-list .entry {
+  display: flex;
+}
+
+.results-list span {
+  display: block;
+  padding: 0.2em;
+}
+
+.results-list .timestamp {
+  font-size: 0.7em;
+  padding: 0.35em 0.2em 0.05em 0.2em;
+  font-style: italic;
+}
