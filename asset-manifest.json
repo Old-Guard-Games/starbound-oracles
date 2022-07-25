@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starforged-oracles/static/css/main.d1fe7227.chunk.css",
+    "main.js": "/starforged-oracles/static/js/main.0b0b092b.chunk.js",
+    "main.js.map": "/starforged-oracles/static/js/main.0b0b092b.chunk.js.map",
+    "runtime-main.js": "/starforged-oracles/static/js/runtime-main.33cb9724.js",
+    "runtime-main.js.map": "/starforged-oracles/static/js/runtime-main.33cb9724.js.map",
+    "static/js/2.624a130e.chunk.js": "/starforged-oracles/static/js/2.624a130e.chunk.js",
+    "static/js/2.624a130e.chunk.js.map": "/starforged-oracles/static/js/2.624a130e.chunk.js.map",
+    "index.html": "/starforged-oracles/index.html",
+    "static/css/main.d1fe7227.chunk.css.map": "/starforged-oracles/static/css/main.d1fe7227.chunk.css.map",
+    "static/js/2.624a130e.chunk.js.LICENSE.txt": "/starforged-oracles/static/js/2.624a130e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33cb9724.js",
+    "static/js/2.624a130e.chunk.js",
+    "static/css/main.d1fe7227.chunk.css",
+    "static/js/main.0b0b092b.chunk.js"
+  ]
+}
