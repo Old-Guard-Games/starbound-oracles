@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/starforged-oracles/static/css/main.6bd4689d.chunk.css",
-    "main.js": "/starforged-oracles/static/js/main.0501e6b2.chunk.js",
-    "main.js.map": "/starforged-oracles/static/js/main.0501e6b2.chunk.js.map",
+    "main.css": "/starforged-oracles/static/css/main.ec72d286.chunk.css",
+    "main.js": "/starforged-oracles/static/js/main.1bc6ae10.chunk.js",
+    "main.js.map": "/starforged-oracles/static/js/main.1bc6ae10.chunk.js.map",
     "runtime-main.js": "/starforged-oracles/static/js/runtime-main.33cb9724.js",
     "runtime-main.js.map": "/starforged-oracles/static/js/runtime-main.33cb9724.js.map",
-    "static/js/2.624a130e.chunk.js": "/starforged-oracles/static/js/2.624a130e.chunk.js",
-    "static/js/2.624a130e.chunk.js.map": "/starforged-oracles/static/js/2.624a130e.chunk.js.map",
+    "static/js/2.078b1d10.chunk.js": "/starforged-oracles/static/js/2.078b1d10.chunk.js",
+    "static/js/2.078b1d10.chunk.js.map": "/starforged-oracles/static/js/2.078b1d10.chunk.js.map",
     "index.html": "/starforged-oracles/index.html",
-    "static/css/main.6bd4689d.chunk.css.map": "/starforged-oracles/static/css/main.6bd4689d.chunk.css.map",
-    "static/js/2.624a130e.chunk.js.LICENSE.txt": "/starforged-oracles/static/js/2.624a130e.chunk.js.LICENSE.txt"
+    "static/css/main.ec72d286.chunk.css.map": "/starforged-oracles/static/css/main.ec72d286.chunk.css.map",
+    "static/js/2.078b1d10.chunk.js.LICENSE.txt": "/starforged-oracles/static/js/2.078b1d10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.33cb9724.js",
-    "static/js/2.624a130e.chunk.js",
-    "static/css/main.6bd4689d.chunk.css",
-    "static/js/main.0501e6b2.chunk.js"
+    "static/js/2.078b1d10.chunk.js",
+    "static/css/main.ec72d286.chunk.css",
+    "static/js/main.1bc6ae10.chunk.js"
   ]
 }
